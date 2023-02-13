@@ -1,3 +1,3 @@
 # video28
 
-https://github.com/123anubhav/video28
+https://123anubhav.github.io/video28/
